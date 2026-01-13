@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Apex Custom: AI Car Studio",
+  "description": "A high-end 3D car customization experience featuring AI-powered design insights and realistic render generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
